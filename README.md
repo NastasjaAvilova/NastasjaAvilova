@@ -15,6 +15,13 @@
 
 <br>
 
+#### Статистика на GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=NastasjaAvilova&show_icons=true&locale=en&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NastasjaAvilova&show_icons=true&locale=en)
+
+<br>
+
 #### Как со мной связаться
 
 - 📩 <a href="mailto:nastasja.avilova@gmail.com" target="_blank">nastasja.avilova@gmail.com</a>
