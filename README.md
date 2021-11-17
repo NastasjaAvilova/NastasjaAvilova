@@ -10,13 +10,13 @@
 
 ### Чему учусь и в чём совершенствуюсь:
 
-- Люблю верстать <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> + <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="44" height="44"/> </a> = <img src="https://i.pinimg.com/originals/60/4e/e4/604ee4e00aa36cdc9197d3f2a7e49b10.gif" alt="LOVE" height="54"/>
+- Люблю верстать <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html5" height="49"/> </a> + <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="css3" height="50"/> </a> = <img src="https://i.pinimg.com/originals/60/4e/e4/604ee4e00aa36cdc9197d3f2a7e49b10.gif" alt="LOVE" height="54"/>
 
-- Знаю как работать с <a href="https://www.figma.com/" target="_blank"> <img src="https://pixelbox.ru/wp-content/uploads/2019/04/figma-1-logo.png" alt="figma" width="40" height="40"/> </a>
+- Знаю, как работать с <a href="https://www.figma.com/" target="_blank"> <img src="https://pixelbox.ru/wp-content/uploads/2019/04/figma-1-logo.png" alt="figma" height="45"/> </a>
 
-- 😤 Постигаю <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="javascript" height="40"/> </a>
+- 😤 Постигаю <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" height="42"/> </a>
 
-- Посмотрим кто кого <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a>
+- Посмотрим, кто кого <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="50"/> </a>
 
 <br>
 
