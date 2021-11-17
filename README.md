@@ -17,7 +17,8 @@
 
 #### Как со мной связаться
 
-- 📧 nastasja.avilova@gmail.com
+- 📩 <a href="mailto:nastasja.avilova@gmail.com" target="_blank">nastasja.avilova@gmail.com</a>
+- ##### ✈️ Telegram @nastasja_official
 
 <!-- 
 ### Hi there 👋
