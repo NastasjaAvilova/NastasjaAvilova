@@ -10,7 +10,7 @@
 
 ### Чему учусь и в чём совершенствуюсь:
 
-- Люблю верстать <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html5" height="49"/> </a> + <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="css3" height="50"/> </a> = <img src="https://i.pinimg.com/originals/60/4e/e4/604ee4e00aa36cdc9197d3f2a7e49b10.gif" alt="LOVE" height="54"/>
+- Люблю верстать <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html5" height="49"/> </a> + <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="css3" height="50"/> </a>
 
 - Знаю, как работать с <a href="https://www.figma.com/" target="_blank"> <img src="https://pixelbox.ru/wp-content/uploads/2019/04/figma-1-logo.png" alt="figma" height="45"/> </a>
 
