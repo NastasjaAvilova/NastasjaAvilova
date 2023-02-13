@@ -15,9 +15,9 @@
 
 - Знаю, как работать с <a href="https://www.figma.com/" target="_blank"> <img src="https://pixelbox.ru/wp-content/uploads/2019/04/figma-1-logo.png" alt="figma" height="45"/> </a>
 
-- 😤 Постигаю <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="42"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" alt="Django" height="42"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="42"/> </a>
+- 😤 Постигаю <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="42"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" alt="Django" height="42"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" height="42"/> </a>
 
-- Посмотрим, кто кого <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" height="42"/> </a> & <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="50"/> </a>
+- Посмотрим, кто кого <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" height="42"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="50"/> </a>
 
 <br>
 
